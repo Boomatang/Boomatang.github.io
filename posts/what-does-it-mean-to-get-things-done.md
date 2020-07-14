@@ -1,3 +1,8 @@
+---
+layout: default
+---
+[Back to Home](../index.html)
+
 # What does it mean to get things done?
 
 This is a very loaded question with lots of areas to expand into. 
