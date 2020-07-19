@@ -36,11 +36,12 @@ func worker(index int, item *element){
 With the worker function done lets create the list to do some work on.
 
 ```
-items := []element{{Name: "Zero"}, 
-                   {Name: One"}, 
-                   {Name: "Two"}, 
-                   {Name: "Three"}
-                   }
+items := []element{
+            {Name: "Zero"}, 
+            {Name: One"}, 
+            {Name: "Two"}, 
+            {Name: "Three"}
+            }
 ```
 
 In the loop we pass in the index and the pointer to the current item in the list.
