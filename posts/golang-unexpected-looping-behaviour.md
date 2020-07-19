@@ -17,7 +17,7 @@ But was well suited to asynchronous processing, which we will get to.
 Let get started by creating the element type that we will be doing the work on in this example.
 The simple struct type has only one field "Name".
 
-```go
+```
 type element struct {
   Name string
 }
@@ -28,20 +28,20 @@ The worker function takes two parameters.
 A number which will be the list index and a pointer to the list item.
 Printing the values is the work that is done.
 
-```go
+```
 func worker(index int, item *element){
   fmt.Fprint("\nIndex: %v, Element.Name: %s\n", index, item.Name)
 ```
 
 With the worker function done lets create the list to do some work on.
 
-```go
+```
 items := []element{{Name: "Zero"}, {Name: One"}, {Name: "Two"}, {Name: "Three"}}
 ```
 
 In the loop we pass in the index and the pointer to the current item in the list.
 
-```go
+```
 for index, item := range items {
   worker(index, &item)
 }
@@ -66,7 +66,7 @@ There are a few changes required to the code base to allow the goroutines to wor
 Firstly we need to add the `sync.WaitGroup` to keep the program alive will the functions run in the background.
 This means changes to our setup, for loop, worker function and the ending of the main function.
 
-```go
+```
 func main(){
   var wg sync.WaitGroup
 
@@ -92,7 +92,7 @@ It's time to go parallel.
 This is what we have been working towards.
 Lets make the complex code change.
 
-```go
+```
 for index, item := range items {
   wg.add(1)
   go worker(index, &item, &wg)
@@ -124,7 +124,7 @@ By the time we get to the end of the list all the goroutines are pointing to the
 
 Let's correct this issue, lets not pass the list item into the worker function as a pointer.
 
-```go
+```
 for index, item := range items {
   wg.add(1)
   go worker(index, item, &wg)
@@ -133,7 +133,7 @@ for index, item := range items {
 
 The worker function signature most also be updated.
 
-```go
+```
 func worker(index int, item element, wg *sync.WaitGroup) {
 ```
 
@@ -159,7 +159,7 @@ We must get the pointer form the list using the index.
 Below is the full example that will update the list items and later print the updated values.
 The updates are do in parallel.
 
-```go
+```
 package main
 
 import (
