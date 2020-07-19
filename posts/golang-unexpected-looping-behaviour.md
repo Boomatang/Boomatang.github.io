@@ -48,7 +48,7 @@ In the loop we pass in the index and the pointer to the current item in the list
 
 ```
 for index, item := range items {
-  worker(index, &item)
+  worker(index, &item)The
 }
 ```
 
@@ -75,7 +75,12 @@ This means changes to our setup, for loop, worker function and the ending of the
 func main(){
   var wg sync.WaitGroup
 
-  items := []element{{Name: "Zero"}, {Name: One"}, {Name: "Two"}, {Name: "Three"}}
+  items := []element{
+                {Name: "Zero"}, 
+                {Name: One"}, 
+                {Name: "Two"}, 
+                {Name: "Three"}
+                }
 
   for index, item := range items {
     wg.add(1)
@@ -178,7 +183,12 @@ type elem struct {
 
 func main() {
   var wg sync.WaitGroup
-  items := []elem{{Name: "Zero"}, {Name: "One"}, {Name: "Two"}, {Name: "Three"}}
+  items := []element{
+              {Name: "Zero"},
+              {Name: "One"},
+              {Name: "Two"},
+              {Name: "Three"}
+              }
 
   for index := range items {
     wg.Add(1)
