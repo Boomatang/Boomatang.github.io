@@ -18,6 +18,7 @@ Now I see the world from a very different lens.
 Enough of about me, below are some post you might enjoy.
 
 # Posts
+### [Getting away from the screen](./posts/getting-away-from-the-srceen.md)
 ### [GoLang Unexpected Looping Behaviour](./posts/golang-unexpected-looping-behaviour.md)
 ### [What does it mean to get things done](./posts/what-does-it-mean-to-get-things-done.md)
 ### [Wiki's, and you should keep one -- 26/07/2019](./posts/wikis-and-you-should-keep-one.html)
