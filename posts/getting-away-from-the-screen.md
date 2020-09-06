@@ -18,7 +18,7 @@ Once a week I try to pick one day that will be screen free.
 Not technology free and that's an important caveat.
 As it's nearly impossible to avoid screens completely reducing the exposure will have to do.
 
-What do I do ton these none screen days?
+What do I do on these none screen days?
 Lets go through the evening after work finishes at 5pm. 
 I might have a cup of tea before going for a walk.
 On this walk I will listen to podcasts. 
@@ -26,7 +26,7 @@ Yes, I do use my phone which has a screen to play the podcasts but it spends mor
 Remember it's about reducing screen time.
 And the podcast are imported when I get to the end of my point to point walk.
 I seat and watch the world go by for a while. 
-This maybe 15, 20 minutes and the podcast help not getting broad.
+This maybe 15, 20 minutes and the podcast wiht help not getting broad justt seating.
 
 By the time I get back to the house its coming up on 7pm.
 Which means its time to start making the dinner.
@@ -38,30 +38,30 @@ This is the hardest time.
 What do you do to fill the gap.
 In this hour it would be so easy sit down and put on Netflix, some E sport, some screen.
 
-Do something, do any thing, do the recycling, check your camping gear for the up coming trip, shared the snail mail that comes to the house.
+Do something, do any thing, do the recycling, check your camping gear for the up coming trip, shred the snail mail that comes to the house.
 But do something!
-I have found in 8 to 9 time if your achieve you will just end up watching cat videos for 5 hours while thinking the whole time I should not be doing this.
+I have found in 8 to 9 time, if your not achieve you will just end up watching cat videos for 5 hours while thinking the whole time I should not be doing this.
 
 Hopefully it's 9 or after at this stage.
 It's easier now, the day is nearly over and I have made it this far.
-This time does be my odd time.
+This time is an odd time for me.
 I might read a book for a while, which reminds me I need to get some more.
 On this none screen day I am writing this blog post.
 Yes, I know I wrote on actually paper first in an actually hard back journal.
 But most of the time it's my thinking time.
-In the hall up stairs there is white broad.
+In the hall, up stairs there is white broad.
 I stand, I pace, I talk out loud to my self.
 The aim is to come up with ideas,
-The ideas are 99% time bad but how else are you going to have a good idea.
+The ideas are 99% of the time bad but how else are you going to have a good idea.
 
-My neighbours must think its strange to see me pacing back and forth in the window.
-But I can't see them so I don't car.
+My neighbours must think it's strange to see me pacing back and forth in thehall window.
+But I can't see them so I don't care.
 It's is a very tiring thing trying to come up with ideas.
 Which is good as now its time for bed.
 
 For most of the evening there was no screen time which is good.
 
 On a final note I won't answer chat messages, won't even look at them but will answer phone calls.
-If something is important enough people will call.
+If something is important enough, people will call.
 
-Any way I hope this helps to reduce the burden of that screen course.
+Any way I hope this helps to reduce the burden of that screen curse.
